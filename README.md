@@ -10,7 +10,7 @@ I have been diving into coding for about four years now, and I'm still going str
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/amos-reginald-jr-3b21011a4/)
 * ✉️  You can contact me at [amosjr08@gmail.com](mailto:amosjr08@gmail.com)
 * 🧠  I'm learning NumPy and Pandas for machine learning
-* 🤝  I'm open to collaborating on low level projects, web development, games, and more!
+* 🤝  I'm open to collaborating on low level projects and SwiftUI!
 * ⚡  I am the President & Founder of 'ColorStack at CSI'
 
 ### Skills
