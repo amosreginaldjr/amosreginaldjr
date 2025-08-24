@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amos Reginald Jr
 ========================================================================================================================================
 
-Student
+Bachelor of Science Major in Computer Science
 -------------------------------------------------
 
 I have been diving into coding for about four years now, and I'm still going strong with no intention of slowing down! I have found myself drawn more to lower-level languages because they give me a real handle on memory management. Sure, it's tough navigating through all the optimization layers, but the payoff is worth it for the whole community. Additionally, I have a soft spot for software engineering, it is like the Swiss Army knife of tech, covering a bit of everything and keeping things interesting.
