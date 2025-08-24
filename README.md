@@ -9,9 +9,9 @@ I have been diving into coding for about four years now, and I'm still going str
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/amos-reginald-jr-3b21011a4/)
 * ✉️  You can contact me at [amosjr08@gmail.com](mailto:amosjr08@gmail.com)
-* 🧠  I'm learning Swift and SwiftUI
-* 🤝  I'm open to collaborating on low level projects and SwiftUI!
-* ⚡  I am the President & Founder of 'ColorStack at CSI'
+* 🧠  I am using Swift and SwiftUI
+* 🤝  I am open to collaborating on low level projects and SwiftUI!
+* ⚡  I am the Former President & Founder of 'ColorStack at CSI'
 
 ### Skills
 
