@@ -11,7 +11,7 @@ I have been diving into coding for about four years now, and I'm still going str
 * ✉️  You can contact me at [contact@amosreginaldjr.com](mailto:contact@amosreginaldjr.com)
 * 🧠  I am using Swift and SwiftUI
 * 🤝  I am open to collaborating on low level projects and SwiftUI!
-* ⚡  I am the Former President & Founder of 'ColorStack at CSI'
+* ⚡  I am the Founder & Former President of 'ColorStack at CSI'
 
 ### Skills
 
